@@ -1,0 +1,13 @@
+body{ 
+text-align: center;
+}
+#Logo{
+    width: 800px;
+    height: 600px;
+}
+img{
+    width : 350px;
+}
+#mycouresel {
+    background-color: brown;
+}
